@@ -1,4 +1,4 @@
-# LAS ROZAS SMART CONTAINERS AUTOMATITATION
+# LAS ROZAS SMART CONTAINERS AUTOMATIZATION
 
 The objective of this proyect is to intuitively display real-time information for each of the smart containers located in Las Rozas (Madrid). This proyect will be implemented using a semantic web aproach.
 
