@@ -46,7 +46,7 @@ Range: Ubicación
 Inverso de: ubicadoEn
 
 * tieneRecolección
-* 
+  
 Domain: Contenedor
 
 Range: Recolecciones Pasadas
@@ -98,7 +98,7 @@ Domain: Contenedor
 Range: String
 
 * porcentaje_de_llenado
-* 
+  
 Domain: Recolecciones Pasadas
 
 Range: nonNegativeInteger
