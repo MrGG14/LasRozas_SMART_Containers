@@ -14,6 +14,8 @@ With this data, it will be possible to automate notifications to the garbage col
 
 ## ONTOLOGY
 
+[ontology conceptualization](https://github.com/MrGG14/LasRozas_SMART_Containers/blob/main/ontology/conceptualization.jpg)
+
 ### Classes
 
 * Contenedor
